@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Grey
+Comment=Grey theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Grey
+MetacityTheme=Grey
+ButtonLayout=close,minimize,maximize:

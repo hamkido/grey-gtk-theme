@@ -1,0 +1,6 @@
+* DONE basic color
+  CLOSED: [2021-03-08 Mon 19:12]
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2021-03-08 Mon 19:12]
+  :END:
+*
